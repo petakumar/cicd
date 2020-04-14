@@ -1,8 +1,2 @@
-aaaaaaaa
-
-dddddd
-
-
-sssss
-dddddddddddddddddddddddd
-
+AAAAAAA
+BBBBBBB
